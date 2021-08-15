@@ -1,2 +1,5 @@
 # Artifact Hub repository metadata file
 repositoryID: 780a35c8-64d3-4d0e-9251-34fcb050b726
+owners:
+  - name: afiune
+    email: afiune@lacework.net
